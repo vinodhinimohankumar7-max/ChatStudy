@@ -132,9 +132,9 @@ server_socket.close()
 ```
 ## output:
 client
-![alt text](<Screenshot 2026-01-30 215825.png>)
+![alt text](<Screenshot 2026-01-31 132317.png>)
 server
-![alt text](server.png)
+![alt text](<Screenshot 2026-01-31 132403.png>)
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
